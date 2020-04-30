@@ -28,3 +28,5 @@ The data dictionary provided with data is as follows:
 - `nrOfPictures` - The number of pictures in the ad.
 - `postalCode` - The postal code for the location of the vehicle.
 - `lastSeenOnline` - When the crawler saw this ad last online.
+## Shoutout
+This notebook is based on a guided project from [Dataquest](https://www.dataquest.io), an online platform to learn Data Analysis and Data Science. The learning goal of the project was to review pandas and cleaning data
